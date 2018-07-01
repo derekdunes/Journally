@@ -1,44 +1,45 @@
-#Journally
+# Journally
 
  it is a simple journal that helps you record important 
 events,document,emotions just at the push of a button.
 
-#Getting Started 
+# Getting Started 
 
 These instructions will get you a copy of the project up and running on your local machine 
 for development and testing purposes. See deployment for notes on how to deploy the 
 project on a live system. 
 
-#Prerequisites 
+# Prerequisites 
 
 - Android-Studio
 - Android Sdk min 23 or above
 - Git 
 
-#Installing
+# Installing
 
 '''
-	git clone https://github.com/derekdunes/Journally.git
-	Open Android-Studio
-	Launch project from path .../Journally 
+
+git clone https://github.com/derekdunes/Journally.git
+Open Android-Studio
+Launch project from path .../Journally 
 '''
 
-#Running the tests
+# Running the tests
  
 Explain how to run the automated tests for this system
 
-#Deployment 
+# Deployment 
 
 Add additional notes about how to deploy this 
 on a live system
  
-#Built With 
+# Built With 
 
 - Java - Core language for development 
 - Figma - Design (UI/UX)
 - Git - Version Control
 
-#Contributing 
+# Contributing 
 
 Please read CONTRIBUTING.md 
 for details on our code of conduct, and the process for submitting pull requests to 
@@ -47,7 +48,7 @@ on this repository. Authors Billie Thompson - Initial work - PurpleBooth See als
 list of contributors who participated in this project. License This project is 
 licensed under the MIT License - see the LICENSE.md file for details 
 
-#Acknowledgments 
+# Acknowledgments 
 - Andela
 - Udacity
 - Google
