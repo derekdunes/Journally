@@ -17,6 +17,7 @@ project on a live system.
 
 # Installing
 
+The intallation procedures includes:
 '''
 
 git clone https://github.com/derekdunes/Journally.git
